@@ -57,6 +57,11 @@ cmake --build build
 
 Qt kurmadan çalıştırmak için derlenmiş sürüm, deponun [**Releases**](https://github.com/ramazanerentepe/hafiza-oyunu/releases) bölümünden zip olarak indirilebilir. Zip'i açıp `HafizaOyunu.exe` dosyasını çalıştırmanız yeterlidir.
 
+> [!WARNING]
+> Uygulama dijital olarak imzalanmadığı için Windows SmartScreen ilk açılışta
+> **"Windows bilgisayarınızı korudu"** uyarısı gösterebilir. Bu, imzasız uygulamalar
+> için normaldir. Çalıştırmak için **Ek bilgi → Yine de çalıştır** seçeneğine tıklayın.
+
 ## Lisans
 
 Bu proje [Apache License 2.0](LICENSE) ile lisanslanmıştır.
